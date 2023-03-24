@@ -1,0 +1,9 @@
+Fishing Derby Informações:
+
+    Player 1 controlável e player 2 IA;
+
+    Se o player tentar pescar o tubarão, 1% de chance de o tubarão puxar o player e ele perder;
+
+    Corrigir barco por cima da agua;
+    
+    Peixe surpreso antes de fugir do anzol (Caio);

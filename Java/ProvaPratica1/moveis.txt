@@ -1,0 +1,4 @@
+﻿numRodas;fabricante;anoFabricação;velocidade;cilindradas;numPassageiros;volumeMaximo;pesoMaximo
+2;Honda;1985;140;;;;
+4;Porsche;2020;190;550;2
+8;Ford;2015;113;;;500;15650

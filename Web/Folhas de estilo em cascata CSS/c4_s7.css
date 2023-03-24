@@ -1,0 +1,15 @@
+p {
+    color: blue;
+}
+
+.cor_vermelha {
+    color: red;
+}
+
+#linha_3 {
+    font-style: italic;
+}
+
+#linha_4 {
+    font-style: bold;
+}
